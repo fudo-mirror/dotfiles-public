@@ -24,7 +24,7 @@ keymap.set("n", "+", "<C-a>")
 keymap.set("n", "-", "<C-x>")
 
 -- Delete a word backwards
-keymap.set("n", "dw", 'vb"_d')
+-- keymap.set("n", "dw", 'vb"_d')
 
 -- Cycle through buffer tabs
 keymap.set("n", "<leader>bh", "<cmd>bprev<cr>", { desc = "Previous buffer", silent = true })
