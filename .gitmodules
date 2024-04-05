@@ -7,3 +7,6 @@
 [submodule ".config/.config/alacritty/themes"]
 	path = .config/.config/alacritty/themes
 	url = https://github.com/alacritty/alacritty-theme.git
+[submodule ".config/alacritty/themes"]
+	path = .config/alacritty/themes
+	url = https://github.com/alacritty/alacritty-theme.git
